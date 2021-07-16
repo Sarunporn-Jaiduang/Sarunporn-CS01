@@ -1,3 +1,3 @@
-A = 10
+A = float(input())
 if(A > 5):
     print("yes")
